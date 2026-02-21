@@ -1,3 +1,3 @@
-# Demo
+ # Demo
 This is my first repository.<br>
-Author - Priya gs
+Author - Priya Shivanna
